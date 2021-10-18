@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Drapper26
+- 🍻 cheers, I’m @Drapper26
 - 👀 I’m interested in graphic design and Java programs 
 - 🌱 I’m currently learning graphic design 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my gmail www.archityadav@gmail.com
 
 <!---
