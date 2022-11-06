@@ -1,6 +1,6 @@
 - 🍻 cheers, I’m @Drapper26
-- 👀 I’m interested in graphic design and Java programs 
-- 🌱 I’m currently learning graphic design 
+- 👀 I’m interested in blockchain devp. web 3 
+- 🌱 I’m currently a web dev
 - 📫 How to reach me on my gmail www.archityadav@gmail.com
 
 <!---
