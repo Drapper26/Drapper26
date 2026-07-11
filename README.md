@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Archit Yadav
+# 👋 Hey, I'm Archit
 
 ### 📊 Data Intelligence Analyst | 🎓 MS Information Systems @ Cleveland State University
 
