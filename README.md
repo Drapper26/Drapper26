@@ -37,13 +37,6 @@ My goal is simple:
 ![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow)
 ![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contracts-black)
 
-### 🌐 Emerging Technologies
-
-⚡ Ethereum
-⚡ Smart Contracts
-⚡ Web3
-⚡ MetaMask
-
 ---
 
 # 🔥 Featured Projects
